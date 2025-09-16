@@ -1,0 +1,101 @@
+Match No.,Season,Opponent,Opponent(Rating),Home or Away,Result,Goal Difference
+1,2022-23,Rayo Vallecano,45,Home,D,0
+2,2022-23,Real Sociedad,85,Away,W,3
+3,2022-23,Real Valladolid,19,Home,W,4
+4,2022-23,Sevilla,41,Away,W,3
+5,2022-23,Viktoria Plzen,20,Home,W,4
+6,2022-23,Cadiz,32,Away,W,4
+7,2022-23,Bayern Munich,96,Away,L,-2
+8,2022-23,Elche,10,Home,W,3
+9,2022-23,Mallorca,54,Away,W,1
+10,2022-23,Inter Milan,90,Away,L,-1
+11,2022-23,Celta Vigo,36,Home,W,1
+12,2022-23,Inter Milan,90,Home,D,0
+13,2022-23,Real Madrid,91,Away,L,-2
+14,2022-23,Villarreal,81,Home,W,3
+15,2022-23,Athletic Club,58,Home,W,4
+16,2022-23,Bayern Munich,96,Home,L,-3
+17,2022-23,Valencia,27,Away,W,1
+18,2022-23,Viktoria Plzen,20,Away,W,2
+19,2022-23,Almeria,23,Home,W,2
+20,2022-23,Osasuna,67,Away,W,1
+21,2022-23,Espanyol,14,Home,D,0
+22,2022-23,Intercity,5,Away,W,1
+23,2022-23,Atletico Madrid,87,Away,W,1
+24,2022-23,Real Betis,76,Away,W,1
+25,2022-23,Real Madrid,91,Away,W,2
+26,2022-23,Sevilla,41,Home,W,3
+27,2022-23,Villarreal,81,Away,W,1
+28,2022-23,Manchester United,92,Home,D,0
+29,2022-23,Cadiz,32,Home,W,2
+30,2022-23,Manchester United,92,Away,L,-1
+31,2022-23,Almeria,23,Away,L,-1
+32,2022-23,Real Madrid,91,Away,L,-1
+33,2022-23,Valencia,27,Home,W,1
+34,2022-23,Athletic Club,58,Away,W,1
+35,2022-23,Real Madrid,91,Home,W,1
+36,2022-23,Elche,10,Away,W,4
+37,2022-23,Real Madrid,91,Home,L,-4
+38,2022-23,Girona,50,Home,D,0
+39,2022-23,Getafe,32,Away,D,0
+40,2022-23,Atletico Madrid,87,Home,W,1
+41,2022-23,Rayo Vallecano,45,Away,L,-1
+42,2022-23,Real Betis,76,Home,W,4
+43,2022-23,Osasuna,67,Home,W,1
+44,2022-23,Espanyol,14,Away,W,2
+45,2022-23,Real Sociedad,85,Home,L,-1
+46,2022-23,Real Valladolid,19,Away,L,-2
+47,2022-23,Mallorca,54,Home,W,3
+48,2022-23,Celta Vigo,36,Away,L,-1
+49,2023-24,Getafe,45,Away,D,0
+50,2023-24,Cadiz,19,Home,W,2
+51,2023-24,Villarreal,62,Away,W,1
+52,2023-24,Osasuna,49,Away,W,1
+53,2023-24,Real Betis,67,Home,W,5
+54,2023-24,Royal Antwerp,15,Home,W,5
+55,2023-24,Celta Vigo,41,Home,W,1
+56,2023-24,Mallorca,32,Away,D,0
+57,2023-24,Sevilla,36,Home,W,1
+58,2023-24,FC Porto,88,Away,W,1
+59,2023-24,Granada,10,Away,D,0
+60,2023-24,Athletic Club,76,Home,W,1
+61,2023-24,Shakhtar Donetsk,60,Home,W,1
+62,2023-24,Real Madrid,95,Home,L,-1
+63,2023-24,Real Sociedad,71,Away,W,1
+64,2023-24,Shakhtar Donetsk,60,Away,L,-1
+65,2023-24,Alaves,54,Home,W,1
+66,2023-24,Rayo Vallecano,23,Away,D,0
+67,2023-24,FC Porto,88,Home,W,1
+68,2023-24,Atletico Madrid,85,Home,W,1
+69,2023-24,Girona,90,Home,L,-2
+70,2023-24,Royal Antwerp,15,Away,L,-1
+71,2023-24,Valencia,58,Away,D,0
+72,2023-24,Almeria,14,Home,W,1
+73,2023-24,UD Barbastro,5,Away,W,1
+74,2023-24,Osasuna,49,Away,W,2
+75,2023-24,Real Madrid,95,Away,L,-3
+76,2023-24,Unionistas,8,Away,W,2
+77,2023-24,Real Betis,67,Away,W,2
+78,2023-24,Athletic Club,76,Away,L,-2
+79,2023-24,Villarreal,62,Home,L,-2
+80,2023-24,Osasuna,49,Home,W,1
+81,2023-24,Alaves,54,Away,W,2
+82,2023-24,Granada,10,Home,D,0
+83,2023-24,Celta Vigo,41,Away,W,1
+84,2023-24,Napoli,80,Away,D,0
+85,2023-24,Getafe,45,Home,W,4
+86,2023-24,Athletic Club,76,Away,D,0
+87,2023-24,Mallorca,32,Home,W,1
+88,2023-24,Napoli,80,Home,W,2
+89,2023-24,Atletico Madrid,85,Away,W,3
+90,2023-24,Las Palmas,27,Home,W,1
+91,2023-24,PSG,96,Away,W,1
+92,2023-24,Cadiz,19,Away,W,1
+93,2023-24,PSG,96,Home,L,-3
+94,2023-24,Real Madrid,95,Away,L,-1
+95,2023-24,Valencia,58,Home,W,2
+96,2023-24,Girona,90,Away,L,-2
+97,2023-24,Real Sociedad,71,Home,W,2
+98,2023-24,Almeria,14,Away,W,2
+99,2023-24,Rayo Vallecano,23,Home,W,3
+100,2023-24,Sevilla,36,Away,W,1
